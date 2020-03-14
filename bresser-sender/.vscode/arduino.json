@@ -1,0 +1,7 @@
+{
+    "port": "COM3",
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "sketch": "Temperatur_Sender.ino"
+}
